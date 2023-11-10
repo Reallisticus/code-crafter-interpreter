@@ -1,0 +1,43 @@
+# Logs
+
+logs
+\*.log
+
+# Compiled output
+
+dist
+_.class
+_.jar
+
+# Dependency directories
+
+node_modules/
+jspm_packages/
+
+# Typescript cache
+
+\*.tsbuildinfo
+
+# Optional eslint cache
+
+.eslintcache
+
+# Environment variables
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+
+.vscode/
+.idea/
+_.iml
+_.ipr
+\*.iws
+
+# Mac files
+
+.DS_Store
